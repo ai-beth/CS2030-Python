@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database files (generated at runtime)
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives
+*.zip
+
+# Media (too large for Git)
+*.mp4
+
+# Course materials (not original work)
+*.docx
+*.pptx
+*.pdf
+
+# Images
+*.png
