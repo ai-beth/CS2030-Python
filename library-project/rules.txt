@@ -1,0 +1,10 @@
+======================================
+      ╒══════╕Data Validation ╒══════╕
+
+➤   Username must start with a capital letter
+➤   Username must be 3 - 6 characters long           
+➤   Password must start with one of the following special characters !@#$%^&* 
+➤   Password must contain at least one digit, one lowercase letter and one uppercase letter 
+➤   Password is between 6 and 12 letters long 
+
+======================================
